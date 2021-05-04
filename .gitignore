@@ -1,0 +1,10 @@
+build
+dist
+/**/*.egg-info
+/**/__pycache__
+venv
+.env
+Dockerfile
+run-tests.sh
+.tox
+.idea
